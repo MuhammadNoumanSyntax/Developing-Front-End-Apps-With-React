@@ -79,7 +79,6 @@ git clone https://github.com/MuhammadNoumanSyntax/Developing-Front-End-Apps-With
 
 🌐 GitHub Repository: https://github.com/MuhammadNoumanSyntax/Developing-Front-End-Apps-With-React
 
-🌐 Live Website: https://YOUR_NETLIFY_URL.netlify.app
 
 
 Contact
